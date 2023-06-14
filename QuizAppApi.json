@@ -1,85 +1,257 @@
-{
-  "difficulty": 1,
-  "quiz": [
-    {
-      "questionTitle": "Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them?",
-      "option1": "Tubby",
-      "option2": "Stodge",
-      "option3": "Helium Bat",
-      "option4": "Stumpy",
-      "correctAns": "Stumpy"
-    },
-    {
-      "questionTitle": "Which was the 1st non Test playing country to beat India in an international match?",
-      "option1": "Canada",
-      "option2": "Sri Lanka",
-      "option3": "Zimbabwe",
-      "option4": "East Africa",
-      "correctAns": "Sri Lanka"
-    },
-    {
-      "questionTitle": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
-      "option1": "Two",
-      "option2": "Three",
-      "option3": "Four",
-      "option4": "Eight",
-      "correctAns": "Four"
-    },
-    {
-      "questionTitle": "Which county did Ravi Shastri play for?",
-      "option1": "Glamorgan",
-      "option2": "Leicestershire",
-      "option3": "Gloucestershire",
-      "option4": "Lancashire",
-      "correctAns": "Glamorgan"
-    },
-    {
-      "questionTitle": "Who was the first Indian to win the World Amateur Billiards title?",
-      "option1": "Geet Sethi",
-      "option2": "Wilson Jones",
-      "option3": "Michael Ferreira",
-      "option4": "Manoj Kothari",
-      "correctAns": "Wilson Jones"
-    },
-    {
-      "questionTitle": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
-      "option1": "M.L.Valsamma",
-      "option2": "P.T.Usha",
-      "option3": "Kamaljit Sandhu",
-      "option4": "K.Malleshwari",
-      "correctAns": "Kamaljit Sandhu"
-    },
-    {
-      "questionTitle": "Which two counties did Kapil Dev play?",
-      "option1": "Northamptonshire & Worcestershire",
-      "option2": "Northamptonshire & Warwickshire",
-      "option3": "Nottinghamshire & Worcestershire",
-      "option4": "Nottinghamshire & Warwickshire",
-      "correctAns": "Northamptonshire & Worcestershire"
-    },
-    {
-      "questionTitle": "When was Amateur Athletics Federation of India established?",
-      "option1": "1936",
-      "option2": "1946",
-      "option3": "1956",
-      "option4": "1966",
-      "correctAns": "1946"
-    },
-    {
-      "questionTitle": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of Over the Edge ?",
-      "option1": "Cactus Jack",
-      "option2": "Mankind",
-      "option3": "Dude Love",
-      "option4": "Mick Foley",
-      "correctAns": "Dude Love"
-    },
-    {
-      "questionTitle": "Ricky Ponting is also known as what?",
-      "option1": "The Rickster",
-      "option2": "Ponts",
-      "option3": "Ponter",
-      "option4": "Punter",
-      "correctAns": "Punter"
-    }
-  ]
-}
+[
+  {
+    "difficulty": 1,
+    "quiz": [
+      {
+        "questionTitle": "Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was NOT one of them?",
+        "option1": "Tubby",
+        "option2": "Stodge",
+        "option3": "Helium Bat",
+        "option4": "Stumpy",
+        "correctAns": "Stumpy"
+      },
+      {
+        "questionTitle": "Which was the 1st non Test playing country to beat India in an international match?",
+        "option1": "Canada",
+        "option2": "Sri Lanka",
+        "option3": "Zimbabwe",
+        "option4": "East Africa",
+        "correctAns": "Sri Lanka"
+      },
+      {
+        "questionTitle": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+        "option1": "Two",
+        "option2": "Three",
+        "option3": "Four",
+        "option4": "Eight",
+        "correctAns": "Four"
+      },
+      {
+        "questionTitle": "Which county did Ravi Shastri play for?",
+        "option1": "Glamorgan",
+        "option2": "Leicestershire",
+        "option3": "Gloucestershire",
+        "option4": "Lancashire",
+        "correctAns": "Glamorgan"
+      },
+      {
+        "questionTitle": "Who was the first Indian to win the World Amateur Billiards title?",
+        "option1": "Geet Sethi",
+        "option2": "Wilson Jones",
+        "option3": "Michael Ferreira",
+        "option4": "Manoj Kothari",
+        "correctAns": "Wilson Jones"
+      },
+      {
+        "questionTitle": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
+        "option1": "M.L.Valsamma",
+        "option2": "P.T.Usha",
+        "option3": "Kamaljit Sandhu",
+        "option4": "K.Malleshwari",
+        "correctAns": "Kamaljit Sandhu"
+      },
+      {
+        "questionTitle": "Which two counties did Kapil Dev play?",
+        "option1": "Northamptonshire & Worcestershire",
+        "option2": "Northamptonshire & Warwickshire",
+        "option3": "Nottinghamshire & Worcestershire",
+        "option4": "Nottinghamshire & Warwickshire",
+        "correctAns": "Northamptonshire & Worcestershire"
+      },
+      {
+        "questionTitle": "When was Amateur Athletics Federation of India established?",
+        "option1": "1936",
+        "option2": "1946",
+        "option3": "1956",
+        "option4": "1966",
+        "correctAns": "1946"
+      },
+      {
+        "questionTitle": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of Over the Edge ?",
+        "option1": "Cactus Jack",
+        "option2": "Mankind",
+        "option3": "Dude Love",
+        "option4": "Mick Foley",
+        "correctAns": "Dude Love"
+      },
+      {
+        "questionTitle": "Ricky Ponting is also known as what?",
+        "option1": "The Rickster",
+        "option2": "Ponts",
+        "option3": "Ponter",
+        "option4": "Punter",
+        "correctAns": "Punter"
+      }
+    ]
+  },
+  {
+    "difficulty": 3,
+    "quiz": [
+      {
+        "questionTitle": "What is the capital city of Brazil?",
+        "option1": "Rio de Janeiro",
+        "option2": "São Paulo",
+        "option3": "Brasília",
+        "option4": "Salvador",
+        "correctAns": "Brasília"
+      },
+      {
+        "questionTitle": "Which is the largest planet in our solar system?",
+        "option1": "Saturn",
+        "option2": "Jupiter",
+        "option3": "Neptune",
+        "option4": "Uranus",
+        "correctAns": "Jupiter"
+      },
+      {
+        "questionTitle": "Who wrote the novel '1984'?",
+        "option1": "Aldous Huxley",
+        "option2": "George Orwell",
+        "option3": "Ray Bradbury",
+        "option4": "Kurt Vonnegut",
+        "correctAns": "George Orwell"
+      },
+      {
+        "questionTitle": "What is the chemical symbol for silver?",
+        "option1": "Si",
+        "option2": "Sv",
+        "option3": "Ag",
+        "option4": "Au",
+        "correctAns": "Ag"
+      },
+      {
+        "questionTitle": "Which artist painted 'The Starry Night'?",
+        "option1": "Claude Monet",
+        "option2": "Pablo Picasso",
+        "option3": "Vincent van Gogh",
+        "option4": "Salvador Dalí",
+        "correctAns": "Vincent van Gogh"
+      },
+      {
+        "questionTitle": "Which country is home to the ancient city of Petra?",
+        "option1": "Jordan",
+        "option2": "Egypt",
+        "option3": "Greece",
+        "option4": "Turkey",
+        "correctAns": "Jordan"
+      },
+      {
+        "questionTitle": "Who is the author of the novel 'Pride and Prejudice'?",
+        "option1": "Charlotte Brontë",
+        "option2": "Emily Brontë",
+        "option3": "Jane Austen",
+        "option4": "Virginia Woolf",
+        "correctAns": "Jane Austen"
+      },
+      {
+        "questionTitle": "Which instrument is known as the 'king of instruments'?",
+        "option1": "Piano",
+        "option2": "Violin",
+        "option3": "Harp",
+        "option4": "Pipe organ",
+        "correctAns": "Pipe organ"
+      },
+      {
+        "questionTitle": "Which is the deepest ocean trench in the world?",
+        "option1": "Mariana Trench",
+        "option2": "Java Trench",
+        "option3": "Kermadec Trench",
+        "option4": "Philippine Trench",
+        "correctAns": "Mariana Trench"
+      },
+      {
+        "questionTitle": "Who is the author of the fantasy novel series 'A Song of Ice and Fire'?",
+        "option1": "J.R.R. Tolkien",
+        "option2": "George R.R. Martin",
+        "option3": "Terry Pratchett",
+        "option4": "Robert Jordan",
+        "correctAns": "George R.R. Martin"
+      }
+    ]
+  },
+  {
+    "difficulty": 2,
+    "quiz": [
+      {
+        "questionTitle": "What is the capital city of France?",
+        "option1": "Paris",
+        "option2": "Rome",
+        "option3": "London",
+        "option4": "Berlin",
+        "correctAns": "Paris"
+      },
+      {
+        "questionTitle": "Which planet is known as the Red Planet?",
+        "option1": "Mars",
+        "option2": "Jupiter",
+        "option3": "Venus",
+        "option4": "Mercury",
+        "correctAns": "Mars"
+      },
+      {
+        "questionTitle": "Who wrote the novel 'To Kill a Mockingbird'?",
+        "option1": "Mark Twain",
+        "option2": "J.K. Rowling",
+        "option3": "Harper Lee",
+        "option4": "George Orwell",
+        "correctAns": "Harper Lee"
+      },
+      {
+        "questionTitle": "What is the chemical symbol for gold?",
+        "option1": "Go",
+        "option2": "Au",
+        "option3": "Ag",
+        "option4": "Ge",
+        "correctAns": "Au"
+      },
+      {
+        "questionTitle": "Who painted the Mona Lisa?",
+        "option1": "Pablo Picasso",
+        "option2": "Leonardo da Vinci",
+        "option3": "Vincent van Gogh",
+        "option4": "Michelangelo",
+        "correctAns": "Leonardo da Vinci"
+      },
+      {
+        "questionTitle": "Which country is home to the Great Barrier Reef?",
+        "option1": "Australia",
+        "option2": "Brazil",
+        "option3": "India",
+        "option4": "Canada",
+        "correctAns": "Australia"
+      },
+      {
+        "questionTitle": "Who is the author of the 'Harry Potter' book series?",
+        "option1": "J.R.R. Tolkien",
+        "option2": "George R.R. Martin",
+        "option3": "J.K. Rowling",
+        "option4": "Stephen King",
+        "correctAns": "J.K. Rowling"
+      },
+      {
+        "questionTitle": "Which instrument is played by blowing air through a series of pipes?",
+        "option1": "Guitar",
+        "option2": "Drums",
+        "option3": "Flute",
+        "option4": "Organ",
+        "correctAns": "Organ"
+      },
+      {
+        "questionTitle": "Which is the largest ocean on Earth?",
+        "option1": "Atlantic Ocean",
+        "option2": "Indian Ocean",
+        "option3": "Arctic Ocean",
+        "option4": "Pacific Ocean",
+        "correctAns": "Pacific Ocean"
+      },
+      {
+        "questionTitle": "Who is the main protagonist in 'The Lord of the Rings'?",
+        "option1": "Frodo Baggins",
+        "option2": "Gandalf",
+        "option3": "Aragorn",
+        "option4": "Samwise Gamgee",
+        "correctAns": "Frodo Baggins"
+      }
+    ]
+  }
+]
